@@ -27,6 +27,6 @@ Here is my GitHub contribution graph animated as a snake game:
 ### 📫 How to reach me
 
 - 📧 Email: [pradhikshamuthukumaran@gmail.com](mailto:pradhikshamuthukumaran@gmail.com)
-- 🌐 Portfolio: [Pradhiksha's Portfolio](https://portfolioo-pi-nine.vercel.app/)
+- 🌐 Portfolio: [Pradhiksha's Portfolio](https://Pradhiksha040.github.io/portfolioo/)
 
 *This page is updated automatically every 24 hours.*
