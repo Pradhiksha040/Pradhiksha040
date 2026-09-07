@@ -20,7 +20,7 @@ Here is my GitHub contribution graph animated as a snake game:
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** JavaScript, Java, HTML, CSS, SQL
+- **Languages:** JavaScript,Python, Java, HTML, CSS, SQL
 - **Frameworks & Libraries:** ReactJS, Flask (Python)
 - **Developer Tools:** Git, GitHub, Maven, VS Code
 
